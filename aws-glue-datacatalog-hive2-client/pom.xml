@@ -98,7 +98,6 @@
                                     <include>com.amazonaws.glue:shims-common</include>
                                     <include>com.amazonaws.glue:hive2-shims</include>
                                     <include>com.amazonaws.glue:shims-loader</include>
-                                    <include>com.amazonaws.glue:spark-hive-shims</include>
                                 </includes>
                             </artifactSet>
                         </configuration>
